@@ -10,3 +10,5 @@ public record WeatherForecast
 
     public string? Summary { get; init; }
 }
+
+// comment just for the fun of it
